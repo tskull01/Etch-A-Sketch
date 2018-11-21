@@ -1,0 +1,46 @@
+.jumbotron{
+    padding: 200px;
+    text-align:center;
+    margin: 50px;
+    position: relative;
+    background: red;
+    border-radius: 30px;
+    height: 500px;
+    width: 800px;
+}
+.text{
+    text-align:center;
+    position: relative;
+    bottom: 160px;
+    font-size: 200%;
+    font-style: bold;
+    font-family: Serif;
+    color: gold;
+    letter-spacing: 3px;
+}
+container{
+    position:relative;
+}
+.knob{
+    height: 80px;
+    width: 80px;
+    position: relative;
+    background: white;
+    border-radius: 100px;
+    top: -180px;
+    left: 170px;
+}
+.knobb{
+    height: 80px;
+    width: 80px;
+    position: relative;
+    background: white;
+    border-radius: 100px;
+    left: 660px;
+    top: -260px;
+}
+.instructions{
+    position:absolute;
+    bottom:-25%;
+    right:39%;
+}
